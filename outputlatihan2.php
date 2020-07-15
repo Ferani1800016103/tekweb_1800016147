@@ -43,7 +43,7 @@
      
 </tr>
 <tr>
-     <td align="center" colspan="3"><a href="formmhs.html">BACK </a></td>
+     <td align="center" colspan="3"><a href="latihan2.html">BACK </a></td>
 </tr>
 </table>
 </body>
